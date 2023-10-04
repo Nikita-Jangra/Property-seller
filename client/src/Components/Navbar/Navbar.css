@@ -1,0 +1,20 @@
+.navbar{
+    margin-top: 20px;
+    margin-left:80px;
+    /* position: fixed; */
+}
+.nav-links{
+    background-color: rgb(220, 231, 245);
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+.nav-links:hover{
+    color: black;
+}
+.active{
+    background-color: rgb(31, 103, 186);
+    color: white;
+    font-weight: bold;
+}

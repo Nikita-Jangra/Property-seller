@@ -1,0 +1,62 @@
+.card-body-div{
+    height: 370px;
+    width: 320px;
+    border-radius: 10px ;
+    background-color:white;
+    float: left;
+    margin-top: 70px;
+    margin-left: 80px;
+    position: relative;
+    margin-bottom: 0px;
+}
+.card-img{
+    margin: 10px;
+    width: 300px;
+    border-radius: 10px;
+    align-items: center;
+}
+.for-rent{
+    padding: 8px;
+    border-radius: 20px;
+   text-decoration: none;
+    background-color: aliceblue;
+    position: absolute;
+    top: 13px;
+    left: 13px;
+}
+.card-title{
+    font-weight: bold;
+    margin: 10px;
+}
+.card-icon{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.card-icon-1{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.card-footer{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.card-link{
+    padding: 10px;
+    border-radius: 20px;
+   text-decoration: none;
+   border: 1px solid blue;
+}
+.card-link:hover{
+    background-color: beige;
+}
+button{
+    background-color: rgb(43, 43, 238);
+    border-radius: 15px;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 70px;
+}
